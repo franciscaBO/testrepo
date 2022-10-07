@@ -1,4 +1,2 @@
 # testrepo
-Testing Github setup
-A line I wrote in my local computer 
-A line I wrote on my local computer, test FB 7-10-22  
+This is a local change OCT 7 14:24, and at 14:33 I removed the previous lines as R copied all the content ever comited.
